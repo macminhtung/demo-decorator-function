@@ -1,0 +1,14 @@
+# compiled output
+/node_modules
+
+# Logs
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+
+# Build
+class.js
+method.js
+function.js
