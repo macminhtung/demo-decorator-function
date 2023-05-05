@@ -18,11 +18,11 @@ $ yarn build
 
 ```bash
 # Demo for class
-$ node class.js
+$ node build/class.js
 
 # Demo for class's method
-$ node method.js
+$ node build/method.js
 
 # Demo for function
-$ node function.js
+$ node build/function.js
 ```
